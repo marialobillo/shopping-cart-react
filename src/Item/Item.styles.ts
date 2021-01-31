@@ -16,7 +16,6 @@ export const Wrapper = styled.div`
         border-radius: 0 0 20px 20px;
         background-color: #F59B8E;
         color: #fff;
-        position: relative;
         float: right;
         width: 100%;
 
